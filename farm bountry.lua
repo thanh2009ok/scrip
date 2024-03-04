@@ -36,5 +36,5 @@ getgenv().TweenSpeed = 350
             },
         }
     }
- loadstring(game:HttpGet('https://raw.githubusercontent.com/vinhuchi/temp-repos/main/FreeAutoBounty.lua'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/clgtmm/AutoBounty/main/main.lua'))()
 
