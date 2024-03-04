@@ -4,7 +4,6 @@ getgenv().AutoUseRacev4 = true
 getgenv().SpamSkillOnRaceV4 = true
 getgenv().Invisible = true
 getgenv().InCombatNoReset = false
-getgenv().Team = "Pirates"
 getgenv().TweenSpeed = 350
  getgenv().Setting = { 
         ["Melee"] = {["Enable"] = true,["Delay"] = 1.25,
